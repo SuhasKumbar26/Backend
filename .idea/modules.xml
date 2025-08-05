@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/01Oops/01Oops.iml" filepath="$PROJECT_DIR$/01Oops/01Oops.iml" />
       <module fileurl="file://$PROJECT_DIR$/02JavaWorking/02JavaWorking.iml" filepath="$PROJECT_DIR$/02JavaWorking/02JavaWorking.iml" />
       <module fileurl="file://$PROJECT_DIR$/03Variables/03Variables.iml" filepath="$PROJECT_DIR$/03Variables/03Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04Methods/04Methods.iml" filepath="$PROJECT_DIR$/04Methods/04Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java Basics.iml" filepath="$PROJECT_DIR$/.idea/Java Basics.iml" />
     </modules>
   </component>
