@@ -1,0 +1,31 @@
+Exception:
+    Event that occurs during the execution of the program.
+
+    it creates an Exception object that contains:
+        -> type of exception and msg
+        -> Stack trace
+
+    Object
+        Throwable
+            ERROR -> can't be handled its occurring due to System.
+            EXCEPTION -> Event that occurs during the execution of the program.
+                -Checked / Compile time.
+                Compiler forces to handle the exception.
+                    ClassNotFoundException
+                    InterruptedException
+                    IOEException
+                        -> FileNotFoundException
+                        -> EOFException
+                        -> SocketException
+                    SQLException
+
+                -Unchecked / Run time.
+                Compiler doesn't force to handle the exception.
+                    ArithmeticException
+                    ClassCastException
+                    IndexOutOfBoundException
+                        -> ArrayIndexOutOfBound
+                        -> StringIndexOutOfBound
+                    NullPointerException
+                    IllegalArgumentException
+                        -> NumberFormatException

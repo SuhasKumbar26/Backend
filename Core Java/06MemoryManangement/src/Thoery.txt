@@ -1,0 +1,47 @@
+
+MEMORY MANAGEMENT IN JAVA
+
+Memory -> RAM
+
+Types of memory:
+    1.Stack
+    2.Heap
+
+1. STACK
+    temporary variable / methods
+    primitive datatypes
+    reference of an object
+    each thread has its own memory
+
+Garbage Collector
+    -> removes non-referenced objects from heap memory
+
+    + Strong referenced
+        never gets deleted until it becomes null
+        Person obj = new Person();
+
+    + Soft Referenced.
+        delete the reference when its necessary.
+
+    + Weak Referenced
+        Objects are deleted when GC runs
+
+
+2. HEAP
+
+                                        Heap                                      permGen(non Heap)
+        |--------young generation--------|---------old generation----------|           metaSpace
+        |--Eden------|----S0---|----S1---|---------------------------------|
+        |            |   survivor space  |                                 |
+        |  gc runs periodically          |     major Gc not periodically   |
+
+GC algorithms
+    -> Mark and sweep algorithm
+    -> Mark and sweep algorithm with compaction
+
+Gc Versions..
+    > Serial Gc -> single thread runs to clean
+    > parallel Gc -> default java8
+    > Concurrent mark and sweep (CMs)
+    > G1 Garbage collector / CMS with compaction
+

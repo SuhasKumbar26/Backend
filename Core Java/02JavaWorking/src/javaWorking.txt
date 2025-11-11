@@ -1,0 +1,12 @@
+java program -> compiler -> byte code(.class) -> jvm -> machine code -> cpu -> output
+jvm is platform dependent
+
+JRE  -> java run time environment
+jvm + class libraries(java.Math , java.util)
+
+JDK -> java development kit
+compiler + debugger + jre + jvm
+
+JSE -> java standard edition (core java)
+JEE -> java enterprise edition (transactions, jsp/servlet, persistence API) / jakarta EE
+JME -> java mobile/micro edition

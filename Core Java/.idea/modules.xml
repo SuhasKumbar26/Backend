@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01Oops/01Oops.iml" filepath="$PROJECT_DIR$/01Oops/01Oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02JavaWorking/02JavaWorking.iml" filepath="$PROJECT_DIR$/02JavaWorking/02JavaWorking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03Variables/03Variables.iml" filepath="$PROJECT_DIR$/03Variables/03Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04Methods/04Methods.iml" filepath="$PROJECT_DIR$/04Methods/04Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05Constructor/05Constructor.iml" filepath="$PROJECT_DIR$/05Constructor/05Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07Classes/07Classes.iml" filepath="$PROJECT_DIR$/07Classes/07Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08Interface/08Interface.iml" filepath="$PROJECT_DIR$/08Interface/08Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09Refelection/09Refelection.iml" filepath="$PROJECT_DIR$/09Refelection/09Refelection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10Annotations/10Annotations.iml" filepath="$PROJECT_DIR$/10Annotations/10Annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11ExceptionHandling/11ExceptionHandling.iml" filepath="$PROJECT_DIR$/11ExceptionHandling/11ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12Operators/12Operators.iml" filepath="$PROJECT_DIR$/12Operators/12Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13ControlFlow/13ControlFlow.iml" filepath="$PROJECT_DIR$/13ControlFlow/13ControlFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14Collection/14Collection.iml" filepath="$PROJECT_DIR$/14Collection/14Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15MultiThreading/15MultiThreading.iml" filepath="$PROJECT_DIR$/15MultiThreading/15MultiThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Core Java.iml" filepath="$PROJECT_DIR$/.idea/Core Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedIn/LinkedIn.iml" filepath="$PROJECT_DIR$/LinkedIn/LinkedIn.iml" />
+    </modules>
+  </component>
+</project>
