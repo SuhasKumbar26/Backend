@@ -16,6 +16,10 @@
       <module fileurl="file://$PROJECT_DIR$/13ControlFlow/13ControlFlow.iml" filepath="$PROJECT_DIR$/13ControlFlow/13ControlFlow.iml" />
       <module fileurl="file://$PROJECT_DIR$/14Collection/14Collection.iml" filepath="$PROJECT_DIR$/14Collection/14Collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/15MultiThreading/15MultiThreading.iml" filepath="$PROJECT_DIR$/15MultiThreading/15MultiThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16Lombok/16Lombok.iml" filepath="$PROJECT_DIR$/16Lombok/16Lombok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17SealedClassAndInterfaces/17SealedClassAndInterfaces.iml" filepath="$PROJECT_DIR$/17SealedClassAndInterfaces/17SealedClassAndInterfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18PatternMatching/18PatternMatching.iml" filepath="$PROJECT_DIR$/18PatternMatching/18PatternMatching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19Record/19Record.iml" filepath="$PROJECT_DIR$/19Record/19Record.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Core Java.iml" filepath="$PROJECT_DIR$/.idea/Core Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedIn/LinkedIn.iml" filepath="$PROJECT_DIR$/LinkedIn/LinkedIn.iml" />
     </modules>
